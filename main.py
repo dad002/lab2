@@ -4,6 +4,9 @@ def sum (a, b):
 def sub (a, b):
 	return a-b
 
+
+
 print("start")
+print("result")
 print(sum(3,4))
 print(sub(3,4))
