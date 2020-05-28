@@ -1,3 +1,3 @@
 Lab2
-  function sum
-  function sub
+  -function sum
+  -function sub
