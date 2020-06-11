@@ -1,3 +1,6 @@
-Lab2
+#Lab2
 ---
-что-то
+* Познакомились с git
+  1. Submodules
+  2. LFS
+  
