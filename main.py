@@ -1,12 +1,16 @@
-def sum (a, b):
-	return a+b
+def mySum(a, b):
+	return a + b
 
-def sub (a, b):
-	return a-b
+def mySub(a, b):
+	return a - b
 
-#halskfdj
+def myDiv(a, b):
+	return a / b
 
-print("start")
-print("result")
-print(sum(3,4))
-print(sub(3,4))
+def myMul(a, b):
+	return a * b
+
+first = int(input("Enter first number"))
+second = int(input("Enter second number"))
+
+print(myMult(first, second))
