@@ -1,0 +1,3 @@
+[submodule "lab2sub"]
+	path = lab2sub
+	url = https://github.com/dad002/lab2sub
